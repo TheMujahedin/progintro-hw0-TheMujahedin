@@ -15,3 +15,5 @@ BYTE 6: me mkdir ../../tmp/newfolder2 fitaxnw 2o folder kai mou leei oti yparxei
 BYTE 7: kanw ls -l blepw ti yparxei kai meta kanw tar -ztvf byte7.tar.gz kai mou deixnei ta periexomena pou psaxnw
 
 BYTE 8: kanw mkdir ../../tmp/new8 meta xxd -r carriage_return.txt > ../../tmp/new8/new2.txt meta cat  ../../tmp/new8/new2.txt kai meta pico  ../../tmp/new8/new2.txt
+
+BYTE 9: prepei sto cat po kanw na valw kai to filepath ara kanw cat -- "./-"
