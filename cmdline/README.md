@@ -11,3 +11,5 @@ BYTE 4: find .-type f - name cup.txt kai mou dinei to path poy einai ./maze/left
 BYTE 5 : me cd .. paw sto /home meta cd .. ftanw sto // kanw ls -l na dw ta periexomena meta cd tmp mpainw sto temp kai kanw mkdir newfolder meta paw pali sto // me cd .. meta mpainw sto home me cd home meta cd byte 5 kanw gcc -o ../../tmp/newfolder/byte byte5.c meta kanw cd .. pisw ftanw sto // kanw cd tmp meta cd newfolder meta kanw ls blepw oti yparxei to byte kai meta ./ byte na to anoiksw
 
 BYTE 6: me mkdir ../../tmp/newfolder2 fitaxnw 2o folder kai mou leei oti yparxei meta kanw ../../tmp/newfolder3 ftiaxnw neo directory meta kanw unzip byte6.zip -d ../../tmp/newfolder3 telos mpainw sto prwto folder poy eftiaksa pou den me afhne na mpw  me cd ../../tmp/newfolder2 kai meta cat byte6.txt
+
+BYTE 7: kanw ls -l blepw ti yparxei kai meta kanw tar -ztvf byte7.tar.gz kai mou deixnei ta periexomena pou psaxnw
