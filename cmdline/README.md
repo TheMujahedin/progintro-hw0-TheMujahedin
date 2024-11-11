@@ -13,3 +13,5 @@ BYTE 5 : me cd .. paw sto /home meta cd .. ftanw sto // kanw ls -l na dw ta peri
 BYTE 6: me mkdir ../../tmp/newfolder2 fitaxnw 2o folder kai mou leei oti yparxei meta kanw ../../tmp/newfolder3 ftiaxnw neo directory meta kanw unzip byte6.zip -d ../../tmp/newfolder3 telos mpainw sto prwto folder poy eftiaksa pou den me afhne na mpw  me cd ../../tmp/newfolder2 kai meta cat byte6.txt
 
 BYTE 7: kanw ls -l blepw ti yparxei kai meta kanw tar -ztvf byte7.tar.gz kai mou deixnei ta periexomena pou psaxnw
+
+BYTE 8: kanw mkdir ../../tmp/new8 meta xxd -r carriage_return.txt > ../../tmp/new8/new2.txt meta cat  ../../tmp/new8/new2.txt kai meta pico  ../../tmp/new8/new2.txt
