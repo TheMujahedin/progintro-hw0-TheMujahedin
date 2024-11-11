@@ -7,3 +7,4 @@ byte 1: This is a fake command that serves no real purpose other than to teach a
 byte 2: grep_is_your_friend
 byte 3: players -> programmers
 byte 4: you_just_found_the_triwizard_cup
+byte 5: Usage: ./byte <2200297>
