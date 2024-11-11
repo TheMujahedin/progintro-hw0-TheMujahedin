@@ -1,1 +1,6 @@
 byte 0: now_you_know_how_to_change_directories_
+byte 1: This is a fake command that serves no real purpose other than to teach about using the `man` command.
+
+       If you made it this far, congratulations! Here's the code you were looking for:
+
+            in_every_job_that_must_be_done_there_is_an_element_of_fun
