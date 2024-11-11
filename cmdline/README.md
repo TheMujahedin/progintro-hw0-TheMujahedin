@@ -7,3 +7,7 @@ BYTE 2: kanw cat shakespeare.txt epeite cat shakespeare.txt | grep 'will find' g
 BYTE 3: kanw diff shakesepare.modified.txt sheakespeare.txt kai mou vgazei tis 2 diaforetikes protaseis
 
 BYTE 4: find .-type f - name cup.txt kai mou dinei to path poy einai ./maze/left/right/8/cup.txt kai kanw cd maze,cd left ... mexri na ftasw sto cup.txt pou to anoigw me cat cup.txt
+
+BYTE 5 : me cd .. paw sto /home meta cd .. ftanw sto // kanw ls -l na dw ta periexomena meta cd tmp mpainw sto temp kai kanw mkdir newfolder meta paw pali sto // me cd .. meta mpainw sto home me cd home meta cd byte 5 kanw gcc -o ../../tmp/newfolder/byte byte5.c meta kanw cd .. pisw ftanw sto // kanw cd tmp meta cd newfolder meta kanw ls blepw oti yparxei to byte kai meta ./ byte na to anoiksw
+
+BYTE 6
