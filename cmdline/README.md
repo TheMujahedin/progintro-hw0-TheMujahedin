@@ -17,3 +17,5 @@ BYTE 7: kanw ls -l blepw ti yparxei kai meta kanw tar -ztvf byte7.tar.gz kai mou
 BYTE 8: kanw mkdir ../../tmp/new8 meta xxd -r carriage_return.txt > ../../tmp/new8/new2.txt meta cat  ../../tmp/new8/new2.txt kai meta pico  ../../tmp/new8/new2.txt
 
 BYTE 9: prepei sto cat po kanw na valw kai to filepath ara kanw cat -- "./-"
+
+BYTE 10: kanw sort names.txt gia takshnomish kai afou uelei to 10o onoma bazw kai ena head -n 10 ara h entolh ginetai sort names.txt | head -n 10
