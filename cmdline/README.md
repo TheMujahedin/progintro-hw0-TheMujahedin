@@ -19,3 +19,5 @@ BYTE 8: kanw mkdir ../../tmp/new8 meta xxd -r carriage_return.txt > ../../tmp/ne
 BYTE 9: prepei sto cat po kanw na valw kai to filepath ara kanw cat -- "./-"
 
 BYTE 10: kanw sort names.txt gia takshnomish kai afou uelei to 10o onoma bazw kai ena head -n 10 ara h entolh ginetai sort names.txt | head -n 10
+
+BYTE 11: ekana mkdir ../../tmp/new11 meta sort births.txt > ../../tmp/new11/b.txt gia taksinomish meta ekana uniq -c ../../tmp/new11/b.txt  kai meta eixa kollhsei sto ti eprepe na kanw ara kathisa kai eida to kathe onoma poses fores exei emfanistei kai eimai sxedon sigoros oti einai ena me 9 fores 
