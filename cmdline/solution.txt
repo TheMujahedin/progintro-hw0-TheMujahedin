@@ -9,3 +9,4 @@ byte 3: players -> programmers
 byte 4: you_just_found_the_triwizard_cup
 byte 5: Usage: ./byte <2200297>
 byte 6: unzipping_was_never_so_easy
+byte 7: byte7.txt
